@@ -36,7 +36,7 @@ SECRET_KEY = '7)0z6!8hy0_(rp(#1ich=f2=o_v8enn9#dqd)^@sau1*%!41l5'
 # SECRET_KEY = get_env("SECRET_KEY", get_random_secret_key())
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['https://victor-movie-rents.herokuapp.com/', '*']
 
